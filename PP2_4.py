@@ -1,4 +1,9 @@
-
+'''
+    Assignment: Nested ifs
+    Author: Andy Chow
+    Date Created: Oct 21, 2024
+    Date Last Modified: Oct 21, 2024
+'''
 
 def q1(): 
   num1 = int(input("In: "))
